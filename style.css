@@ -1,0 +1,45 @@
+body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+h1 {
+  color: #ffcc00;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  color: #ffcc00;
+  margin-top: 2rem;
+}
+
+ul, ol {
+  margin-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+figure {
+  margin: 2rem auto;
+  text-align: center;
+}
+
+figcaption {
+  color: #00ff00;
+  font-family: 'Courier New', monospace;
+  margin-top: 0.5rem;
+}
+
+img {
+  max-width: 650px;
+  width: 100%;
+  border: 2px solid #ff3300;
+  border-radius: 4px;
+  box-shadow: 0 0 10px #ff3300;
+}
